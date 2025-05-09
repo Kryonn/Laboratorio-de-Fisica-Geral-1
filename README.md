@@ -1,6 +1,8 @@
-# Laboratório de Física Geral 1 - 7600109
+# :test_tube: Laboratório de Física Geral 1 - 7600109
 
-## Cronograma
+A disciplina consiste na elaboração de experimentos práticos relacionados ao conteúdo de Física 1, com o objetivo de consolidar conceitos teóricos por meio da observação, medição e análise de fenômenos físicos, promovendo o desenvolvimento da capacidade investigativa e da interpretação de resultados experimentais.
+
+## :calendar: Cronograma
 
 | Data   | Tema     |
 |:-----------:|:----------:|
@@ -14,7 +16,24 @@
 | 25/06/2025    | **Prova teórica 2**    |
 | 02/07/2025    | Prova Substitutiva    |
 
-## Avaliação
+## 📚 Avaliação das Aulas Práticas
 
-No começo de cada aula, é aplicado uma prova teórica que possui duas questõese relacionadas ao conteúdo da prática.
-![Equação][https://latex.codecogs.com/png.image?\dpi{110}Np=0,3*Provinha&plus;0,7*Relatorio&space;]
+No início de cada aula prática, é aplicada uma **provinha teórica** com duas questões relacionadas ao conteúdo da prática.
+
+A nota da prática (**Np**) é calculada da seguinte forma:
+
+Np = 0,3 × Provinha + 0,7 × Relatório
+
+A nota final (**Nf**) é determinada pela média ponderada das notas de prática e provas teóricas:
+
+Nf = 0,4 × M_Np + 0,6 × M_P
+
+### 📝 Legenda:
+- **Np**: Nota da prática  
+- **Provinha**: Nota da provinha teórica  
+- **Relatório**: Nota do relatório prático  
+- **Nf**: Nota final  
+- **M_Np**: Média das notas das práticas  
+- **M_P**: Média das notas das provinhas teóricas
+
+###### obs: M_Np desconsidera a menor nota.
