@@ -16,7 +16,7 @@ A disciplina consiste na elaboração de experimentos práticos relacionados ao 
 | 25/06/2025    | **Prova teórica 2**    |
 | 02/07/2025    | Prova Substitutiva    |
 
-## 📚 Avaliação das Aulas Práticas
+## 📚 Avaliação
 
 No início de cada aula prática, é aplicada uma **provinha teórica** com duas questões relacionadas ao conteúdo da prática.
 
